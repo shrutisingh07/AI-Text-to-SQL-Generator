@@ -1,4 +1,3 @@
-<img width="959" height="475" alt="Screenshot 2026-07-14 201916" src="https://github.com/user-attachments/assets/c583706a-078a-4fcf-bb9b-3fa80a24230d" />
 # 🤖 AI SQL Analytics Assistant
 
 An AI-powered SQL Analytics Assistant built with **Python**, **Streamlit**, **Google Gemini AI**, **SQLite**, and **Plotly**.
