@@ -1,31 +1,63 @@
-# 🤖 AI Text-to-SQL Generator
+# 🤖 AI SQL Analytics Assistant
 
-Convert natural language into executable SQL queries using **Google Gemini AI** and **SQLite**.
+An AI-powered SQL Analytics Assistant built with **Python**, **Streamlit**, **Google Gemini AI**, **SQLite**, and **Plotly**.
 
-This application allows users to ask questions in plain English, automatically generates SQL queries using Generative AI, executes them on a SQLite database, explains the generated SQL, and displays the results in an interactive table.
+The application converts natural language into SQL queries using Google's Gemini model, executes the generated SQL on a SQLite database, visualizes the results with interactive charts, and provides AI-generated business insights.
 
 ---
 
-## 🚀 Features
+## 🚀 Live Demo
 
-- 🤖 Natural Language → SQL using Gemini AI
-- 📝 AI-generated SQL explanations
-- 🗄 SQLite database integration
-- 📊 Interactive query results
-- 📥 Download results as CSV
-- 📚 Database schema viewer
-- 🎨 Modern Streamlit interface
+🌐 https://ai-text-to-sql-generator-iyzav28bbmbyqkutmjigu5.streamlit.app/
+
+---
+
+## 📌 Features
+
+- 🤖 Natural Language to SQL using Gemini AI
+- 🗄️ SQLite Database Integration
+- 📝 AI SQL Explanation
+- 📊 Interactive Dashboard
+- 📈 Automatic Data Visualization
+- 📉 KPI Metrics
+- 🧠 AI Business Insights
+- 📥 Export Query Results as CSV
+- 🕒 Query History
+- 📚 Database Schema Sidebar
+- 🎨 Professional Streamlit Interface
 
 ---
 
 ## 🛠 Tech Stack
 
+### Programming Language
+
 - Python
-- Streamlit
+
+### AI
+
 - Google Gemini API
+- Prompt Engineering
+
+### Framework
+
+- Streamlit
+
+### Database
+
 - SQLite
+
+### Data Processing
+
 - Pandas
-- python-dotenv
+
+### Visualization
+
+- Plotly
+
+### Environment
+
+- Python Dotenv
 
 ---
 
@@ -37,6 +69,7 @@ AI-Text-to-SQL-Generator/
 ├── app.py
 ├── ai.py
 ├── database.py
+├── company.db
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -44,7 +77,7 @@ AI-Text-to-SQL-Generator/
 
 ---
 
-## ⚙ Installation
+## ⚙️ Installation
 
 Clone the repository
 
@@ -66,7 +99,7 @@ pip install -r requirements.txt
 
 Create a `.env` file
 
-```
+```text
 GEMINI_API_KEY=YOUR_API_KEY
 ```
 
@@ -78,42 +111,58 @@ streamlit run app.py
 
 ---
 
-## 💻 Example Queries
+## 📷 Screenshots
 
-- Show all employees
-- Show employees earning more than 50000
-- Show IT employees
-- Show average salary
-- Count total employees
+### 🏠 Home Page
+
+(Add Screenshot)
 
 ---
 
-## 📸 Screenshots
+### 📝 SQL Generation
 
-Add screenshots here after deployment.
+(Add Screenshot)
 
-Example:
+---
 
-- Home Page
-- SQL Generation
-- Query Results
+### 📊 Analytics Dashboard
+
+(Add Screenshot)
+
+---
+
+### 📈 Interactive Charts
+
+(Add Screenshot)
+
+---
+
+### 🧠 AI Business Insights
+
+(Add Screenshot)
 
 ---
 
 ## 🔮 Future Improvements
 
-- Multiple database support
-- PostgreSQL & MySQL integration
-- Query history
-- Database upload
-- AI-powered query optimization
-- Charts & visualizations
+- Support MySQL & PostgreSQL
+- Voice to SQL
+- PDF Report Generation
+- Authentication
+- Database Upload
+- Dashboard Themes
 
 ---
 
-## 👩‍💻 Developer
+## 👩‍💻 Author
 
 **Shruti Singh**
 
-GitHub:
-https://github.com/shrutisingh07
+- GitHub: https://github.com/shrutisingh07
+- LinkedIn: https://www.linkedin.com/in/shruti-singh-858b76372/
+
+---
+
+## ⭐ If you like this project
+
+Give this repository a ⭐ on GitHub.
