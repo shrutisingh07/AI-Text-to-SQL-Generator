@@ -1,3 +1,4 @@
+<img width="959" height="475" alt="Screenshot 2026-07-14 201916" src="https://github.com/user-attachments/assets/c583706a-078a-4fcf-bb9b-3fa80a24230d" />
 # 🤖 AI SQL Analytics Assistant
 
 An AI-powered SQL Analytics Assistant built with **Python**, **Streamlit**, **Google Gemini AI**, **SQLite**, and **Plotly**.
@@ -115,42 +116,38 @@ streamlit run app.py
 
 ### 🏠 Home Page
 
-(Add Screenshot)
+<img width="959" height="475" alt="Screenshot 2026-07-14 201916" src="https://github.com/user-attachments/assets/18342356-54a0-4d88-bd94-49b2a4f62f62" />
+
 
 ---
 
 ### 📝 SQL Generation
 
-(Add Screenshot)
+<img width="956" height="468" alt="Screenshot 2026-07-14 202019" src="https://github.com/user-attachments/assets/07c03ebe-b9cf-4534-baac-c999ee8bd33f" />
 
 ---
 
 ### 📊 Analytics Dashboard
 
-(Add Screenshot)
+
+<img width="958" height="463" alt="Screenshot 2026-07-14 202149" src="https://github.com/user-attachments/assets/b6980c13-6229-427f-9a8b-da730d470ac7" />
+
 
 ---
 
 ### 📈 Interactive Charts
 
-(Add Screenshot)
+<img width="735" height="467" alt="Screenshot 2026-07-14 202241" src="https://github.com/user-attachments/assets/900ebaa8-069b-40b3-8464-37d48bf28edf" />
+
+<img width="953" height="468" alt="Screenshot 2026-07-14 202348" src="https://github.com/user-attachments/assets/e3bdb7f0-ea79-404a-943c-5e78356a8ae1" />
+
 
 ---
 
 ### 🧠 AI Business Insights
 
-(Add Screenshot)
+<img width="943" height="467" alt="Screenshot 2026-07-14 202433" src="https://github.com/user-attachments/assets/a517acd4-f1ae-4925-9251-590022b2197b" />
 
----
-
-## 🔮 Future Improvements
-
-- Support MySQL & PostgreSQL
-- Voice to SQL
-- PDF Report Generation
-- Authentication
-- Database Upload
-- Dashboard Themes
 
 ---
 
