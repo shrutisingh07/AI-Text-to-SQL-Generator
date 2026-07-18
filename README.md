@@ -6,12 +6,6 @@ The application converts natural language into SQL queries using Google's Gemini
 
 ---
 
-## 🚀 Live Demo
-
-🌐 https://ai-text-to-sql-generator-iyzav28bbmbyqkutmjigu5.streamlit.app/
-
----
-
 ## 📌 Features
 
 - 🤖 Natural Language to SQL using Gemini AI
